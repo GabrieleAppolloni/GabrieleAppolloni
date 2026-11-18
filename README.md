@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **GabrieleAppolloni/GabrieleAppolloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Studi:
+- Triennale: in ingegneria informatica presso l'università di Roma Tor Vergata.🔭
+- Magistrale:🤔
+
+### Repository:
+I public repo fanno riferimento a progetti universitari o a materiale utilizzato per preparare esami universitari.
+Ciò non esclude la mancanza di errori, anzi procedete con cautela.
+
