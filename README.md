@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - Magistrale:🤔
 
 ### Repository:
-I public repo fanno riferimento a progetti universitari o a materiale utilizzato per preparare esami universitari.
+I public repository fanno riferimento a progetti universitari o a materiale utilizzato per preparare esami universitari.
 Ciò non esclude la mancanza di errori, anzi procedete con cautela.
 
